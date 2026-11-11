@@ -10,4 +10,4 @@ AI/ML engineering student from Ranchi, India. I build RAG systems and LLM agents
 
 **Tech:** Python, PyTorch, LangChain, LangGraph, ChromaDB, Pinecone, FastAPI, PostgreSQL, SQL, Docker, Streamlit
 
-**Currently:** practising DSA in Python and rebuilding LocalText2SQL on a free Colab GPU.
+
